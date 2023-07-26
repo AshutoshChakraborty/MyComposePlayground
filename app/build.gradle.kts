@@ -62,6 +62,7 @@ dependencies {
     implementation(libs.material3)
     implementation(libs.navigation)
     implementation(libs.lifecycle)
+    implementation(libs.lifecycleutil)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.test.ext.junit)
     androidTestImplementation(libs.espresso.core)

@@ -28,6 +28,7 @@ ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
 material3 = { group = "androidx.compose.material3", name = "material3" }
 navigation = {group = "androidx.navigation", name = "navigation-compose", version.ref = "navigation"}
 lifecycle ={group ="androidx.lifecycle",name = "lifecycle-viewmodel-compose",version.ref = "lifecycle"}
+lifecycleutil ={group ="androidx.lifecycle",name = "lifecycle-runtime-compose",version.ref = "lifecycle"}
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
